@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProject\\DraggableGridView\\dynamicgrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProject\\DraggableGridView\\dynamicgrid\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 122,
+                    "endColumn": 43,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProject\\DraggableGridView\\dynamicgrid\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 43,
+                        "endOffset": 161
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Downloads\\DynamicGrid-master\\dynamicgrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "F:\\Downloads\\DynamicGrid-master\\dynamicgrid\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 122,
+                    "endColumn": 43,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "F:\\Downloads\\DynamicGrid-master\\dynamicgrid\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 43,
+                        "endOffset": 161
+                    }
+                }
+            }
+        ]
+    }
+]
